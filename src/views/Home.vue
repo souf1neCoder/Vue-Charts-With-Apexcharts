@@ -25,6 +25,9 @@
           <div class="col-lg-4">
             <Scatter />
           </div>
+          <div class="col-lg-4">
+            <Pie />
+          </div>
         </div>
       </div>
     </div>
@@ -38,6 +41,7 @@ import Area from "../components/Area.vue";
 import Column from "../components/Column.vue";
 import LineColumn from "../components/LineColumn.vue";
 import Scatter from "../components/Scatter.vue";
+import Pie from "../components/Pie.vue";
 </script>
 
 <style></style>
