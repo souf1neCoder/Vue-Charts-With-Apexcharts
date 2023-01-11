@@ -22,6 +22,9 @@
           <div class="col-lg-4">
             <line-column />
           </div>
+          <div class="col-lg-4">
+            <Scatter />
+          </div>
         </div>
       </div>
     </div>
@@ -34,6 +37,7 @@ import Line from "../components/Line.vue";
 import Area from "../components/Area.vue";
 import Column from "../components/Column.vue";
 import LineColumn from "../components/LineColumn.vue";
+import Scatter from "../components/Scatter.vue";
 </script>
 
 <style></style>
