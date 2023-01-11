@@ -32,7 +32,11 @@
       </div>
     </div>
   </main>
-  <footer></footer>
+  <footer>
+     <div class="footer-main text-center py-3">
+          <p>Created By Soufiane M'channa With &#10084;</p>
+      </div>
+  </footer>
 </template>
 
 <script setup>
