@@ -2,7 +2,7 @@
   <header>
     <div class="container py-5">
       <div class="text-center">
-        <h1>VUE CHART WITH <a href="https://apexcharts.com/">APEXCHARTS</a></h1>
+        <h1>VUE CHARTS WITH <a href="https://apexcharts.com/">APEXCHARTS</a></h1>
       </div>
     </div>
   </header>
