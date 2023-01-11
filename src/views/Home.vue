@@ -9,7 +9,7 @@
   <main>
     <div class="jumbotron p-5 mb-2 bg-light ">
       <div class="container-fluid">
-        <div class="row mt-5">
+        <div class="row g-4 my-3">
           <div class="col-lg-4">
             <Line />
           </div>
@@ -18,6 +18,9 @@
           </div>
            <div class="col-lg-4">
             <Column />
+          </div>
+          <div class="col-lg-4">
+            <line-column />
           </div>
         </div>
       </div>
@@ -30,6 +33,7 @@
 import Line from "../components/Line.vue";
 import Area from "../components/Area.vue";
 import Column from "../components/Column.vue";
+import LineColumn from "../components/LineColumn.vue";
 </script>
 
 <style></style>
